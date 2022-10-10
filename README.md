@@ -1,11 +1,8 @@
-## My Project
+# SageMaker Feature Store Workshop
 
-TODO: Fill this README out!
+<img width="709" alt="Screen Shot 2022-09-14 at 12 23 44 PM" src="https://user-images.githubusercontent.com/94488096/190244277-0c162139-2034-485e-8949-b9d9b5580069.png">
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Each notebook has been built to educate feature store capabilities
 
 ## Security
 
