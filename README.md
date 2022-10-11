@@ -1,6 +1,6 @@
 # SageMaker Feature Store Workshop
 
-This is a SageMaker FeatureStore tutorial/workshop aimed to help Feature Engineering and Machine Learning teams build Amazon SageMaker Feature Store competencies for an enterprise scale solution. The content offers a higher layer (than SDK), solution oriented implementation examples of Feature Store. The  example code covers the use cases such as setting up and using the SageMaker Feature Store to train models, to set up automated pipelines to ingest into the Feature Store, to observe feature and model lineage and other examples. Here is a diagram overview of the tutorial/workshop and the learning outcome for each module
+This workshop is aimed to help Feature Engineering and Machine Learning teams build Amazon SageMaker Feature Store capabilities for an enterprise scale solution. These notebook examples will get you started with using the SageMaker Feature Store. Here is a diagram overview of the tutorial/workshop and the learning outcome for each module
 
 <img width="709" alt="Screen Shot 2022-09-14 at 12 23 44 PM" src="https://user-images.githubusercontent.com/94488096/190244277-0c162139-2034-485e-8949-b9d9b5580069.png">
 
