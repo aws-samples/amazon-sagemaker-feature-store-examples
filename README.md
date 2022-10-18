@@ -1,6 +1,6 @@
 # SageMaker Feature Store Workshop
 
-This workshop is aimed to help Feature Engineering and Machine Learning teams build Amazon SageMaker Feature Store capabilities for an enterprise scale solution. These notebook examples will get you started with using the SageMaker Feature Store. Here is a diagram overview of the tutorial/workshop and the learning outcome for each module
+This workshop is aimed to help Feature Engineering and Machine Learning teams build Amazon SageMaker Feature Store capabilities for an enterprise scale solution. These notebook examples will get you started with using the SageMaker Feature Store. Here is a diagram overview of the tutorial/workshop and the learning outcome for each module.
 
 <img width="709" alt="Screen Shot 2022-09-14 at 12 23 44 PM" src="https://user-images.githubusercontent.com/94488096/190244277-0c162139-2034-485e-8949-b9d9b5580069.png">
 
